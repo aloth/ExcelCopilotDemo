@@ -2,7 +2,7 @@
 
 This repository contains the dataset and script prompts used in our detailed demo.
 
-**Watch the full tutorial on YouTube:** [Excel Copilot Tutorial](https://www.youtube.com/watch?v=8q9CrHaosAg)
+**Watch the full tutorial on YouTube:** [Excel Copilot Tutorial](https://www.youtube.com/watch?v=1Ug1htXEww4)
 
 **Read the full blog post:** [How to Use Copilot in Excel](https://alexloth.com/how-to-use-copilot-in-excel-mastering-excel-with-m365-copilot-data-analysis-tutorial/)
 
