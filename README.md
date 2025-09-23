@@ -1,5 +1,6 @@
 # Mastering Data Analysis with Excel Copilot
 
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![YouTube](https://img.shields.io/badge/YouTube-Excel%20Copilot%20Demo-red?logo=youtube&style=flat)](https://www.youtube.com/watch?v=1Ug1htXEww4)
 [![Blog](https://img.shields.io/badge/Blog-alexloth.com-blue?style=flat)](https://alexloth.com/how-to-use-copilot-in-excel-mastering-excel-with-m365-copilot-data-analysis-tutorial/)
 [![Follow on X](https://img.shields.io/twitter/follow/xlth?style=social)](https://x.com/xlth)
@@ -157,14 +158,15 @@ Train a linear regression model to predict Donation\_Amount using Days Since Las
 
 ## Contribute
 
-Contributions welcome! Suggested contribution flow: 
-Fork → create branch → PR with clear description.  
+Contributions that enhance the learning experience are welcome! Open an **[issue](https://github.com/aloth/ExcelCopilotDemo/issues)** for bugs or suggestions.
 
 ---
 
 ## License
 
-This repository is licensed under **GNU GPL v3.0** — see `LICENSE` for details.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE).
+
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](LICENSE).
 
 ---
 
