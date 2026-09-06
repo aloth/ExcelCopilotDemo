@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Mastering Data Analysis with Excel Copilot: Demo Dataset and Prompts"
+message: "If you use this dataset or the prompts, please cite it as below."
+type: dataset
+authors:
+  - family-names: Loth
+    given-names: Alexander
+    orcid: "https://orcid.org/0009-0003-9327-6865"
+version: "1.0.0"
+date-released: "2025-02-25"
+license: CC-BY-4.0
+repository-code: "https://github.com/aloth/ExcelCopilotDemo"
+url: "https://www.youtube.com/watch?v=1Ug1htXEww4"
+abstract: >
+  A sample donor dataset and a set of copy-paste prompts for reproducing the Excel
+  Copilot data-analysis walkthrough, alongside a written guide covering the prompt
+  patterns and the limits of Copilot's analysis in Excel.
+keywords:
+  - Excel
+  - Microsoft Copilot
+  - data analysis
+  - prompt engineering
+  - spreadsheet
